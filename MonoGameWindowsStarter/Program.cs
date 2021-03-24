@@ -16,6 +16,7 @@ namespace MonoGameWindowsStarter
         {
             using (var game = new Game1())
                 game.Run();
+            test1commit
         }
     }
 #endif
